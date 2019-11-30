@@ -1,9 +1,0 @@
-{
-    "python.venvPath": "~/.virtualenvs/",
-    "python.pythonPath": "/home/xinhui/.virtualenvs/py38/bin/python",
-    "python.jediEnabled": true,
-    "python.linting.enabled": true,
-    "python.linting.pylintEnabled": false,
-    "python.linting.flake8Enabled": true,
-    "python.jediMemoryLimit": -1,
-}
